@@ -14,7 +14,7 @@ A MERN Stack application that allows users to login/signup using jwt auth while 
 
 ## App Preview
 
-<img width="512" alt="app home page" src="/Users/collinporter/code/sandbox/google-books-search/assets/gbs_home.png">
+<img width="512" alt="app home page" src="./assets/gbs_home.png">
 
 <hr>
 
