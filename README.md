@@ -10,6 +10,8 @@ Link to deployed app: [Google Book Search]()
 
 A MERN Stack application that allows users to login/signup using jwt auth while searching for and saving books using google books API.
 
+> Recently created new repo to hold newer-working code
+
 <hr>
 
 ## App Preview
